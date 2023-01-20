@@ -2,4 +2,4 @@
 
 
 
-this is demo repo for learning git and github.
+this is demo resrepo for learning git and github.
